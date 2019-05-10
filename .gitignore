@@ -2,6 +2,8 @@
 *.iml
 *.pyc
 
+media
+
 # virtualenv
 .venv
 venv/
